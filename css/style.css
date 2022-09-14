@@ -21,6 +21,7 @@ a {
 /* ----------------------------------- */
 
 .holder {
+    margin: 15px;
     background-color: #f2eff6;
     padding: 30px 20px;
      width: 350px;
